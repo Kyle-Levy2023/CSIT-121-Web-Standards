@@ -1,0 +1,10 @@
+body{background-color:#9ACD32;color:#2F4F4F;font-family:Arial,Times New Roman, san-serif;border-radius:15px }
+p{background-color:#FFD700;}
+h1{text-align:center;text-transform:uppercase;box-shadow:4px 4px 4px #8FBC8F}
+h2{text-transform:uppercase}
+h3{text-transform:uppercase;}
+li{font-weight:bold;}
+#wrapper{margin-left:auto;margin-right:auto;width:80%;}
+#div1{float:left;margin:1% 30px 20% 5%}
+#div2{float:right; margin: 10% 30px 20% 5%}
+a:hover {text-decoration:none }
