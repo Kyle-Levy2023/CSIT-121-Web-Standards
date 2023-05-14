@@ -1,0 +1,74 @@
+body{
+	background-color:#9999FF;
+	color:#000000;
+	font-family:Arial,"Times New Roman", sans-serif;
+	border-radius:15px;
+	background-image:url(images/transgenderflag.png);
+	       background-repeat:no-repeat; }
+h1{
+	text-align:center;
+	text-transform:uppercase;
+	box-shadow:4px 4px 4px 	#000000}
+
+
+
+h2{text-transform:uppercase}
+
+h3{text-transform:uppercase;}
+
+li{font-weight:bold;}
+
+footer{text-align:center}
+
+#wrapper{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;}
+#mailing {float: right;
+	width: 500px;
+
+}
+
+#photos {float:left; width:600px}
+
+#flags {float:left; width:500px}
+#localresources {float:right; width: 500px;}
+
+a:hover {text-decoration:none}
+nav a {text-decoration: none; padding-right: 10px; padding-left: 10px;}
+
+
+@media (max-width:768px) {
+#mailing {float:none}
+
+#photos {float:none}
+
+#flags {float:none}
+
+#localresources {float:none}
+ 
+ h1{text-transform:none}
+
+ h2{text-transform:none}
+
+ h3{text-transform:none}
+}
+
+table {width: 600px;
+      margin:auto; 
+      border:2px solid #000}
+
+caption {font-size: 2em;
+font-weight:bold;}
+
+th,td {border: 1px solid #000; }
+
+tfoot {text-align:center}
+
+form {background-color:#9999FF;
+	color:#000000;
+	font-family:Arial,"Times New Roman", sans-serif;
+
+}
+
+input {display: block; margin-top:3px}
